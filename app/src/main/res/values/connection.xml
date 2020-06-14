@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="servername">wm88.wedos.net</string>
+    <string name="username">w99973_alaneg</string>
+    <string name="password">jRxNCHQ5</string>
+    <string name="dbname">d99973_alaneg</string>
+    <string name="get_schnapps_users_url">http://www.stolc.net/get_schnapps_users.php</string>
+    <string name="get_schnappser_id_url">http://www.stolc.net/get_schnappser_id.php</string>
+    <string name="get_schnappsers_url">http://www.stolc.net/get_schnappsers.php</string>
+    <string name="set_schnapps_user_url">http://www.stolc.net/set_schnapps_user.php</string>
+    <string name="set_schnappser_url">http://www.stolc.net/set_schnappser.php</string>
+    <string name="google_directions_api">https://maps.googleapis.com/maps/api/directions/json</string>
+</resources>
